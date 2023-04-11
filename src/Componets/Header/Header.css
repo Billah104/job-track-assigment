@@ -1,0 +1,47 @@
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #757575;
+    margin-right: 15px;
+}
+
+.job-track-title {
+    height: 44px;
+    left: 300px;
+    top: 50px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 44px;
+    color: #1A1919;
+}
+
+.applied-jobs-btn {
+    margin-right: 15px;
+    border: none;
+    background-color: white;
+    color: #757575;
+}
+
+.star-applying-btn {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    padding: 19px 28px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    border: none;
+}
