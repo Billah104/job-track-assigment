@@ -15,23 +15,22 @@ const Home = () => {
 
   return (
     <div>
-      <header className="flex items-center justify-around mb-40">
+      <header className="banner-body">
         <div>
-          <h1 className="w-3/5 font-extrabold mb-8 ">
-            {" "}
-            One Step Closer To Your{" "}
-            <span className="text-violet-500">Dream Job </span>{" "}
+          <h1 className="banner-title">
+            One Step <br /> Closer To Your <br />
+            <span className="dream-job">Dream Job </span>
           </h1>
-          <p className="w-2/3 mb-8 text-gray-400">
-            Explore thousands of job opportunities with all the <br />{" "}
-            information you need. Its your future. Come find it. Manage all your
+          <p className="banner-pr">
+            Explore thousands of job opportunities with all the <br />
+            information you need. Its your future. Come find it. Manage all <br /> your
             job application from start to finish.
           </p>
-          <button className="btn  text-white bg-violet-700">Get Started</button>
+          <button className="get-started-btn">Get Started</button>
         </div>
         <div>
           <img
-            className="w-25"
+            className="banner-img"
             src="/src/assets/All Images/P3OLGJ1 copy 1.png"
             alt=""
           />
@@ -40,7 +39,7 @@ const Home = () => {
       {/* Job category section */}
       <section className="job-category">
         <div className="title-bar items-center  flex flex-col justify-center">
-          <h1 className="w-3/5 font-extrabold mb-8 text-center">
+          <h1 className="job-category-list">
             Job Category List
           </h1>
           <p className="  mb-8 text-gray-400">

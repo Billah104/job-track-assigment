@@ -1,3 +1,65 @@
 .see-all-button {
     margin-left: 580px;
 }
+
+.banner-body {
+    display: flex;
+
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.banner-img {
+    width: 816px;
+    height: 744px;
+    margin-right: 164px;
+    margin-left: 70px;
+}
+
+.banner-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 100px;
+    color: #1A1919;
+    margin: 0px;
+
+}
+
+.dream-job {
+    color: #9873FF;
+
+
+}
+
+.banner-pr {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #757575;
+    margin: 0px;
+    margin-top: 21px;
+    margin-bottom: 31px;
+}
+
+.get-started-btn {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    border: none;
+    color: #FFFFFF;
+    padding: 19px 28px;
+}
+
+.job-category-list {
+    margin-top: 130px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 66px;
+    color: #1A1919;
+
+}
