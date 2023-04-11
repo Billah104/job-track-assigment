@@ -1,117 +1,117 @@
 [
-    {
-      "id": 1,
-      "jobTitle": "Technical Database Engineer",
-      "companyLogo": "src/assets/logo/google-1-1 1-1.png",
-      "companyName": "Google LLC",
-      "RemoteOnsite": "Remote",
-  
-      "location": "Dhaka, Bangladesh",
-      "time": "Fulltime",
-  
-      "salary": "Salary : 100K - 150K",
-      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-      "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-      "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-      "Experiences": "1 year experience in c++",
-      "phone": "++9990001551",
-      "email": "nnheo@example.com",
-      "website": "www.example.com"
-    },
-    {
-      "id": 2,
-      "jobTitle": "Senior Product Designer",
-      "companyLogo": "src/assets/logo/netflix-4 1.png",
-      "companyName": "Netflix",
-  
-      "RemoteOnsite": "Onsite",
-      "location": "Dhaka, Bangladesh",
-      "time": "Fulltime",
-  
-      "salary": "Salary : 100K - 150K",
-      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-      "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-      "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-      "Experiences": "1 year experience in c++",
-      "phone": "++9990001551",
-      "email": "nnheo@example.com",
-      "website": "www.example.com"
-    },
-    {
-      "id": 3,
-      "jobTitle": "Software Engineer",
-      "companyLogo": "src/assets/logo/tesla-9 1.png",
-      "companyName": "Tesla",
-  
-      "RemoteOnsite": "Onsite",
-      "location": " Dhaka, Bangladesh ",
-      "time": "Fulltime",
-  
-      "salary": "Salary : 100K - 150K",
-  
-      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-      "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-      "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-      "Experiences": "1 year experience in c++",
-      "phone": "++9990001551",
-      "email": "nnheo@example.com",
-      "website": "www.example.com"
-    },
-    {
-      "id": 4,
-      "jobTitle": "Technical Database Engineer",
-      "companyLogo": "src/assets/logo/google-1-1 1.png",
-      "companyName": "Google LLC",
-      "RemoteOnsite": "Remote",
-  
-      "location": "Dhaka, Bangladesh",
-      "time": "Fulltime",
-  
-      "salary": "Salary : 100K - 150K",
-      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-      "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-      "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-      "Experiences": "1 year experience in c++",
-      "phone": "++9990001551",
-      "email": "nnheo@example.com",
-      "website": "www.example.com"
-    },
-    {
-      "id": 5,
-      "jobTitle": "Job Title",
-      "companyLogo": "src/assets/Icons/accounts 1.png",
-      "companyName": "Account & Finance",
-      "Remote": "Remote",
-      "onsite": "Onsite",
-      "location": "San Francisco, CA",
-      "fulltime": "Fulltime",
-      "partTime": "partTime",
-      "salary": "100000",
-      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-      "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-      "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-      "Experiences": "1 year experience in c++",
-      "phone": "++9990001551",
-      "email": "nnheo@example.com",
-      "website": "www.example.com"
-    },
-    {
-      "id": 6,
-      "jobTitle": "Job Title",
-      "companyLogo": "src/assets/Icons/accounts 1.png",
-      "companyName": "Account & Finance",
-      "Remote": "Remote",
-      "onsite": "Onsite",
-      "location": "San Francisco, CA",
-      "fulltime": "Fulltime",
-      "partTime": "partTime",
-      "salary": "100000",
-      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-      "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-      "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-      "Experiences": "1 year experience in c++",
-      "phone": "++9990001551",
-      "email": "nnheo@example.com",
-      "website": "www.example.com"
-    }
-  ]
+  {
+    "id": "1",
+    "jobTitle": "Technical Database Engineer",
+    "companyLogo": "src/assets/logo/google-1-1 1-1.png",
+    "companyName": "Google LLC",
+    "RemoteOnsite": "Remote",
+
+    "location": "Dhaka, Bangladesh",
+    "time": "Fulltime",
+
+    "salary": " 100K - 150K (Per Month",
+    "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "jobResponsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.         ",
+    "educationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "2-3 Years in this field.",
+    "phone": "++9990001551",
+    "email": "nnheo@example.com",
+    "website": "www.example.com"
+  },
+  {
+    "id": "2",
+    "jobTitle": "Senior Product Designer",
+    "companyLogo": "src/assets/logo/netflix-4 1.png",
+    "companyName": "Netflix",
+
+    "RemoteOnsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "time": "Fulltime",
+
+    "salary": "Salary : 100K - 150K",
+    "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.u",
+    "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members. ",
+    "educationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "2-3 Years in this field. ",
+    "phone": "++9990001551",
+    "email": "nnheo@example.com",
+    "website": "www.example.com"
+  },
+  {
+    "id": "3",
+    "jobTitle": "Software Engineer",
+    "companyLogo": "src/assets/logo/tesla-9 1.png",
+    "companyName": "Tesla",
+
+    "RemoteOnsite": "Onsite",
+    "location": " Dhaka, Bangladesh ",
+    "time": "Fulltime",
+
+    "salary": "Salary : 100K - 150K",
+
+    "jobDescription": "Tesla is looking for a talented Software Engineer to join our team. As a Software Engineer at Tesla, you will be responsible for designing, implementing and maintaining software applications and systems that support Tesla’s business operations. You will be part of a team that works on cutting-edge technologies and collaborates with other teams across the company.",
+    "jobResponsibility": "Develop high-quality software applications and systems that support Tesla's business operations.Collaborate with other teams across the company to develop and implement software solutions that meet business requirements.",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or a related field.3+ years of experience in software development.Proficiency in at least one programming language, such as Java, Python, C++, or JavaScript.Experience with database systems such as MySQL, PostgreSQL, or Oracle.",
+    "Experiences": "3 year experience in java",
+    "phone": "++9990001551",
+    "email": "nnheo@example.com",
+    "website": "www.example.com"
+  },
+  {
+    "id": "4",
+    "jobTitle": "Technical Database Engineer",
+    "companyLogo": "src/assets/logo/google-1-1 1.png",
+    "companyName": "Google LLC",
+    "RemoteOnsite": "Remote",
+
+    "location": "Dhaka, Bangladesh",
+    "time": "Fulltime",
+
+    "salary": "Salary : 100K - 150K",
+    "jobDescription": "Google is seeking a talented Technical Database Engineer to join our team. In this role, you will work on designing, building, and maintaining database solutions for Google’s internal systems. You will collaborate with other teams to improve database performance, ensure data integrity, and maintain database availability.",
+    "jobResponsibility": "Design, build, and maintain database solutions that meet business requirements and performance goals.Collaborate with other teams to develop, maintain, and improve database schemas, queries, and performance.Develop tools and automation to monitor and manage database systems.Ensure data integrity, availability, and recoverability.",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or a related field.3+ years of experience in software development.Proficiency in at least one programming language, such as Java, Python, C++, or JavaScript.Experience with database systems such as MySQL, PostgreSQL, or Oracle.",
+    "Experiences": "10 year experience in mogoDB",
+    "phone": "++9990001551",
+    "email": "nnheo@example.com",
+    "website": "www.example.com"
+  },
+  {
+    "id": "5",
+    "jobTitle": "Job Title",
+    "companyLogo": "src/assets/Icons/accounts 1.png",
+    "companyName": "Account & Finance",
+    "RemoteOnsite": "Remote",
+
+    "location": "San Francisco, CA",
+    "time": "Fulltime",
+
+    "salary": "100000",
+    "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+    "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
+    "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "Experiences": "6 year experience in phython",
+    "phone": "++9990001551",
+    "email": "nnheo@example.com",
+    "website": "www.example.com"
+  },
+  {
+    "id": "6",
+    "jobTitle": "Front end development",
+    "companyLogo": "src/assets/logo/google-1-1 1-1.png",
+    "companyName": "Amazon",
+    "RemoteOnsite": "Onsite",
+
+    "location": "San Francisco, CA",
+    "time": "partTime",
+
+    "salary": "100000",
+    "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+    "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
+    "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "Experiences": "10 year experience in html and css",
+    "phone": "++9990001551",
+    "email": "nnheo@example.com",
+    "website": "www.example.com"
+  }
+]

@@ -1,0 +1,106 @@
+svg {
+    width: 24px;
+    height: 24px;
+    padding-left: 30px;
+    color: #9873FF;
+}
+
+.job-details-head {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 44px;
+    color: #1A1919;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.job-description-container {
+    display: flex;
+}
+
+.job-description {
+    margin-left: 300px;
+    margin-right: 24px;
+    width: 872px;
+    height: 96px;
+
+}
+
+.job-details {
+    margin-right: 300px;
+}
+
+.description {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 32px;
+    color: #1A1919;
+
+}
+
+.description-details {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    color: #757575;
+
+}
+
+.job-details-main {
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+    border-radius: 8px;
+}
+
+.same-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #1A1919;
+    padding: 30px 190px 0px 30px;
+}
+
+.font-bold {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #474747;
+    margin-left: 8px;
+}
+
+.contact-information {
+    display: flex;
+    align-items: center;
+}
+
+.contact-information-1 {
+    padding-bottom: 30px;
+}
+
+.information {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+}
+
+.apply-btn {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    border: none;
+    color: #FFFFFF;
+    padding: 19px 150px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+
+}

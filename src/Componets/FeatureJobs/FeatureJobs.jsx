@@ -10,8 +10,7 @@ const FeatureJobs = ({ feature }) => {
   // }
   // const navigate = useNavigate()
   const {
-    id,
-    jobTitle,
+    id, jobTitle,
     companyLogo,
     companyName,
     RemoteOnsite,
@@ -44,7 +43,7 @@ const FeatureJobs = ({ feature }) => {
           <p className="  location text-gray-400 mr-10">{location}</p>
           <p className=" salary text-gray-400">{salary}</p>
         </div>
-        <Link to={`/job/${id}`}>
+        <Link to={`/jobDetails/${id}`}>
           <button className="view-details-btn">
             View Details
           </button>

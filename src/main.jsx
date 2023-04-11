@@ -40,7 +40,7 @@ const router = createBrowserRouter([
       // {
       //   path: "/apply",
       //   element: <ApplyJob></ApplyJob>,
-      //   loader: jobProductsLoader,
+      //   loader: jobProductsLoader(),
       // },
     ],
   },
