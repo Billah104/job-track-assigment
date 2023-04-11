@@ -8,9 +8,28 @@
 }
 
 .assignment-chart{
-    border: 2px solid purple;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* .pie-chart{
-    align-items: center;
-} */
+table, th, td {
+    border: 1px solid;
+  }
+
+td {
+    text-align: center;
+  }
+
+  /* table {
+    width: 100%;
+  }
+  
+  th {
+    height: 70px;
+  } */
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }

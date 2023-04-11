@@ -9,8 +9,8 @@ import JobDetails from "./Componets/jobDetails/JobDetails";
 import ErrorPage from "./Componets/ErrorPage/ErrorPage";
 import Blog from "./Componets/Blog/Blog";
 import Statistics from "./Componets/StatisticsPage/Statistics";
-// import ApplyJob from "./Componets/applyJobPage/ApplyJob";
-// import jobProductsLoader from "./utilities/jobDataLoaders";
+import ApplyJob from "./Componets/applyJobPage/ApplyJob";
+import jobProductsLoader from "./utilities/jobDataLoaders";
 
 const router = createBrowserRouter([
   {
@@ -37,11 +37,11 @@ const router = createBrowserRouter([
         path: "/chart",
         element: <Statistics></Statistics>,
       },
-      // {
-      //   path: "/apply",
-      //   element: <ApplyJob></ApplyJob>,
-      //   loader: jobProductsLoader(),
-      // },
+      {
+        path: "/apply",
+        element: <ApplyJob></ApplyJob>,
+        loader: jobProductsLoader(),
+      },
     ],
   },
 ]);
