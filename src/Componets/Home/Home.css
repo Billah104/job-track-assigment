@@ -63,3 +63,20 @@
     color: #1A1919;
 
 }
+
+.job-category-pr {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #757575;
+
+}
+
+.job-items-4 {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+}

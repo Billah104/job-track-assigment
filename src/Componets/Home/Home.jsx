@@ -42,13 +42,13 @@ const Home = () => {
           <h1 className="job-category-list">
             Job Category List
           </h1>
-          <p className="  mb-8 text-gray-400">
+          <p className="job-category-pr">
             Explore thousands of job opportunities with all the information you
             need. Its your future
           </p>
         </div>
         {/* 4 job items */}
-        <div className="job-items flex items-center justify-around mb-8">
+        <div className="job-items-4">
           {jobsCategory.map((job) => (
             <JobsCategory job={job} key={job.id}></JobsCategory>
           ))}

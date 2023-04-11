@@ -1,13 +1,14 @@
 import React from "react";
+import './JobsCategory.css'
 
 const JobsCategory = ({ job }) => {
   const { name, JobsAvailable, logo } = job;
   return (
-    <div className="bg-red-50 p-10 rounded-xl">
-      <img className="mb-4" src={logo} alt="" />
-      <h3 className="mb-4 font-bold">{name}</h3>
+    <div className="jobs-category-item">
+      <img className="jobs-category-img" src={logo} alt="" />
+      <h3 className="jobs-category-name">{name}</h3>
 
-      <p className="text-gray-400">{JobsAvailable}</p>
+      <p className="jobs-category-available">{JobsAvailable}</p>
     </div>
   );
 };
