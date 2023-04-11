@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
+import './FeatureJobs.css'
 // import { addToDb } from "../../utilities/fakedb";
 
 const FeatureJobs = ({ feature }) => {
@@ -27,24 +28,24 @@ const FeatureJobs = ({ feature }) => {
   } = feature;
   return (
     <div>
-      <div className=" border-solid border shadow-lg rounded-md p-14 ">
-        <img className="mb-5 " src={companyLogo} alt="" />
-        <p className="font-semibold mb-2 text-2xl">{jobTitle}</p>
-        <p className="mb-2 text-xl text-gray-400">{companyName}</p>
-        <div className="flex gap-5 font-semibold mb-2">
-          <p className=" text-violet-700 border-violet-200 border  p-2 rounded">
+      <div className=" featureJobs-item-dtls">
+        <img className="company-logo " src={companyLogo} alt="" />
+        <p className="jobTitle">{jobTitle}</p>
+        <p className="company-name">{companyName}</p>
+        <div className="job-type">
+          <p className="remoteOnsite">
             {RemoteOnsite}
           </p>
-          <p className="  text-violet-700 border border-violet-200 p-2 rounded">
+          <p className=" time">
             {time}
           </p>
         </div>
-        <div className="mb-5 flex">
-          <p className="   text-gray-400 mr-10">{location}</p>
-          <p className="  text-gray-400">{salary}</p>
+        <div className="location-dev">
+          <p className="  location text-gray-400 mr-10">{location}</p>
+          <p className=" salary text-gray-400">{salary}</p>
         </div>
         <Link to={`/job/${id}`}>
-          <button className="btn  text-white bg-violet-700">
+          <button className="view-details-btn">
             View Details
           </button>
         </Link>

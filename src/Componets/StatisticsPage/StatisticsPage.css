@@ -1,0 +1,16 @@
+.assignment-mark{
+    text-align: center;
+    color: #9873FF;
+    margin-top: 40px;
+    font-weight: 900;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.assignment-chart{
+    border: 2px solid purple;
+}
+
+/* .pie-chart{
+    align-items: center;
+} */

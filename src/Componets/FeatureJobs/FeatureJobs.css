@@ -1,0 +1,99 @@
+.featureJobs-item-dtls {
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+
+}
+
+.company-logo {
+    padding: 20px 491px 0px 40px;
+    width: 116.69px;
+    height: 40px;
+}
+
+.jobTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    padding: 25px 266px 0px 25px;
+    color: #474747;
+    text-align: left;
+    margin: 0px;
+}
+
+.company-name {
+    margin: 0px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 25px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+}
+
+.job-type {
+    display: flex;
+    align-items: center;
+    text-align: left;
+
+}
+
+.remoteOnsite {
+    margin-right: 10px;
+    margin-left: 25px;
+    border-radius: 4px;
+    border: 2px solid #9873FF;
+    padding: 9px;
+    color: #9873FF;
+}
+
+.time {
+    margin-right: 10px;
+    border-radius: 4px;
+    border: 2px solid #9873FF;
+    padding: 9px;
+    color: #9873FF;
+}
+
+.location-dev {
+    display: flex;
+    align-items: center;
+}
+
+.location {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+    margin-right: 24px;
+    padding-left: 25px;
+
+}
+
+.salary {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+}
+
+.view-details-btn {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    border: none;
+    color: #FFFFFF;
+    padding: 19px 28px;
+    text-align: left;
+    display: flex;
+    text-decoration: underline;
+    align-items: flex-start;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}

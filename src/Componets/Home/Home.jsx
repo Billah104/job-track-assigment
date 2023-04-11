@@ -56,20 +56,21 @@ const Home = () => {
       </section>
 
       {/* job feature section */}
+      
       <section className="job-feature mb-8">
         {/* job feature heading */}
         <div className="job-feature-heading  flex flex-col   items-center  justify-center">
-          <h1 className="w-3/5 font-extrabold mb-8 text-center">
+          <h1 className="featured-job">
             Featured Jobs
           </h1>
-          <p className="  mb-8 text-gray-400">
+          <p className="featured-pr">
             Explore thousands of job opportunities with all the information you
             need. Its your future
           </p>
         </div>
         {/* feature job details */}
 
-        <div className="grid grid-cols-2  gap-8 items-center justify-around py-10">
+        <div className="feature-jobs-items">
           {featureJobs.slice(0, 4).map((feature) => (
             <FeatureJobs key={feature.id} feature={feature}></FeatureJobs>
           ))}
