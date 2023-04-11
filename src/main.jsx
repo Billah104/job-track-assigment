@@ -9,33 +9,39 @@ import JobDetails from "./Componets/jobDetails/JobDetails";
 import ErrorPage from "./Componets/ErrorPage/ErrorPage";
 import Blog from "./Componets/Blog/Blog";
 import Statistics from "./Componets/StatisticsPage/Statistics";
+// import ApplyJob from "./Componets/applyJobPage/ApplyJob";
+// import jobProductsLoader from "./utilities/jobDataLoaders";
 
 const router = createBrowserRouter([
   {
     path: "/",
+    errorElement: <ErrorPage></ErrorPage>,
     element: <App></App>,
 
     children: [
       {
         path: "/",
-        errorElement: <ErrorPage></ErrorPage>,
         element: <Home></Home>,
-
         loader: () => fetch("/jobCategory.json"),
       },
       {
-        path: "job/:id",
+        path: "/jobDetails/:id",
         element: <JobDetails></JobDetails>,
-        loader: ({params}) => fetch("/featureJobs.json"),
+        loader: ({ params }) => fetch("/featureJobs.json"),
       },
       {
-        path:"/blog",
-        element:<Blog></Blog>
+        path: "/blog",
+        element: <Blog></Blog>,
       },
       {
-        path : "/chart",
-        element :<Statistics></Statistics>
-      }
+        path: "/chart",
+        element: <Statistics></Statistics>,
+      },
+      // {
+      //   path: "/apply",
+      //   element: <ApplyJob></ApplyJob>,
+      //   loader: jobProductsLoader,
+      // },
     ],
   },
 ]);

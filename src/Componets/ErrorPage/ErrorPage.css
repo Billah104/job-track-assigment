@@ -1,0 +1,14 @@
+.error-section{
+    margin-top:100px ;
+    display: flex;
+    justify-content: center;
+}
+
+.svg-error{
+    width: 60px;
+    height: 60px;
+}
+
+.back-to-home-page{
+    text-align: none;
+}
