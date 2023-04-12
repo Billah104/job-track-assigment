@@ -8,11 +8,12 @@
     margin-right: 300px;
     border: 1px solid #E8E8E8;
     border-radius: 8px;
-    
+    margin-top: 30px;
+
 }
 
 .view-details-btn {
-    
+
     background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
     border-radius: 8px;
     font-weight: 800;
@@ -28,9 +29,13 @@
 }
 
 .company-logo-img {
-    width: 240px;
-    height: 240px;
-    padding: 30px 15px 30px 30px;
+    background: #F4F4F4;
+    border-radius: 8px;
+    width: 145.86px;
+    height: 50px;
+    margin-right: 20px;
+    padding: 95px 47px;
+    margin-left: 30px;
 }
 
 .job-details-title {

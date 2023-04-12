@@ -16,7 +16,7 @@ const JobsReview = ({ job }) => {
   return (
     <div className=" jobs-review-container">
       <div className=" bg-gray-400">
-        <img className="company-logo-img " src={companyLogo} alt="" />
+        <img className="company-logo-img" src={companyLogo} alt="" />
       </div>
       <div className="mr-8">
         <p className="job-details-title">{jobTitle}</p>
@@ -29,7 +29,7 @@ const JobsReview = ({ job }) => {
           <p className="job-time">{time}</p>
         </div>
         <div className="job-dt-info">
-          <p className="job-location">{location}</p>
+          <p className="job-location">  {location}</p>
           <p className="job-salary">{salary}</p>
         </div>
       </div>
