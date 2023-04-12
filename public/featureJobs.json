@@ -2,7 +2,7 @@
   {
     "id": "1",
     "jobTitle": "Technical Database Engineer",
-    "companyLogo": "src/assets/logo/google-1-1 1-1.png",
+    "companyLogo": "https://lh3.googleusercontent.com/R-Ths1oO5h3yYse-jd3cr-XPLhUgnPVe1v7yeHvXiW-HW4sG5YhSxuIuOtaI__VlqSMzUHLnwscHtgzUZK0WStMxx3R_aulhYO3ue9u7Qw=s660",
     "companyName": "Google LLC",
     "RemoteOnsite": "Remote",
 
@@ -14,104 +14,104 @@
     "jobResponsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.         ",
     "educationalRequirements": "Bachelor degree to complete any reputational university.",
     "Experiences": "2-3 Years in this field.",
-    "phone": "++9990001551",
-    "email": "nnheo@example.com",
-    "website": "www.example.com"
+    "phone": "++8990001551",
+    "email": "google@example.com",
+    "website": "www.google.com"
   },
   {
     "id": "2",
     "jobTitle": "Senior Product Designer",
-    "companyLogo": "src/assets/logo/netflix-4 1.png",
+    "companyLogo": "https://images.unsplash.com/photo-1621955964441-c173e01c135b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=886&q=80",
     "companyName": "Netflix",
 
     "RemoteOnsite": "Onsite",
-    "location": "Dhaka, Bangladesh",
+    "location": " Scott Valley, California",
     "time": "Fulltime",
 
-    "salary": "Salary : 100K - 150K",
+    "salary": "Salary : 45K - 70K",
     "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.u",
     "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members. ",
     "educationalRequirements": "Bachelor degree to complete any reputational university.",
     "Experiences": "2-3 Years in this field. ",
-    "phone": "++9990001551",
-    "email": "nnheo@example.com",
-    "website": "www.example.com"
+    "phone": "++9905436551",
+    "email": "netflix@example.com",
+    "website": "www.netflix.com"
   },
   {
     "id": "3",
-    "jobTitle": "Software Engineer",
-    "companyLogo": "src/assets/logo/tesla-9 1.png",
+    "jobTitle": "Meckanicale Engineer",
+    "companyLogo": "https://media.designrush.com/inspiration_images/269905/conversions/1_Tesla_Logo_Design_31692375c0d0-desktop.jpg",
     "companyName": "Tesla",
 
     "RemoteOnsite": "Onsite",
-    "location": " Dhaka, Bangladesh ",
+    "location": "Texas, United States",
     "time": "Fulltime",
 
-    "salary": "Salary : 100K - 150K",
+    "salary": "Salary : 50K - 90K",
 
-    "jobDescription": "Tesla is looking for a talented Software Engineer to join our team. As a Software Engineer at Tesla, you will be responsible for designing, implementing and maintaining software applications and systems that support Tesla’s business operations. You will be part of a team that works on cutting-edge technologies and collaborates with other teams across the company.",
-    "jobResponsibility": "Develop high-quality software applications and systems that support Tesla's business operations.Collaborate with other teams across the company to develop and implement software solutions that meet business requirements.",
-    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or a related field.3+ years of experience in software development.Proficiency in at least one programming language, such as Java, Python, C++, or JavaScript.Experience with database systems such as MySQL, PostgreSQL, or Oracle.",
+    "jobDescription": "Tesla is looking for a talented Software Engineer to join our team. As a Software Engineer at Tesla, you will be responsible for designing, implementing and maintaining software applications and systems that support Tesla’s business operations. You will be part of a team that works on cutting-edge technologies and collaborates with other teams across the company",
+    "jobResponsibility": "Develop high-quality software applications and systems that support Tesla's business operations.Collaborate with other teams across the company to develop and implement software solutions that meet business requirements. ",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or a related field.3+ years of experience in software development.Proficiency in at least one programming language, such as Java, Python, C++, or JavaScript.Experience with database systems such as MySQL, PostgreSQL, or Oracle",
     "Experiences": "3 year experience in java",
-    "phone": "++9990001551",
-    "email": "nnheo@example.com",
-    "website": "www.example.com"
+    "phone": "++9996701551",
+    "email": "tesla@example.com",
+    "website": "www.tesla.com"
   },
   {
     "id": "4",
     "jobTitle": "Technical Database Engineer",
-    "companyLogo": "src/assets/logo/google-1-1 1.png",
+    "companyLogo": "https://www.google.com/logos/doodles/2016/34th-anniversary-of-similan-islands-national-park-4857236808531968-hp2x.gif",
     "companyName": "Google LLC",
     "RemoteOnsite": "Remote",
 
-    "location": "Dhaka, Bangladesh",
+    "location": " California, United States",
     "time": "Fulltime",
 
-    "salary": "Salary : 100K - 150K",
+    "salary": "Salary : 50K - 100K",
     "jobDescription": "Google is seeking a talented Technical Database Engineer to join our team. In this role, you will work on designing, building, and maintaining database solutions for Google’s internal systems. You will collaborate with other teams to improve database performance, ensure data integrity, and maintain database availability.",
     "jobResponsibility": "Design, build, and maintain database solutions that meet business requirements and performance goals.Collaborate with other teams to develop, maintain, and improve database schemas, queries, and performance.Develop tools and automation to monitor and manage database systems.Ensure data integrity, availability, and recoverability.",
     "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or a related field.3+ years of experience in software development.Proficiency in at least one programming language, such as Java, Python, C++, or JavaScript.Experience with database systems such as MySQL, PostgreSQL, or Oracle.",
     "Experiences": "10 year experience in mogoDB",
-    "phone": "++9990001551",
-    "email": "nnheo@example.com",
-    "website": "www.example.com"
+    "phone": "++999546501551",
+    "email": "google@example.com",
+    "website": "www.google.com"
   },
   {
     "id": "5",
-    "jobTitle": "Job Title",
-    "companyLogo": "src/assets/Icons/accounts 1.png",
-    "companyName": "Account & Finance",
-    "RemoteOnsite": "Remote",
+    "jobTitle": "Nokia",
+    "companyLogo": "https://cdn.dribbble.com/users/14268/screenshots/20773321/5c3653bf-77b8-45dd-a344-1f0a9f9b0850_4x.png",
+    "companyName": "Salse manader",
+    "RemoteOnsite": "Onsite",
 
-    "location": "San Francisco, CA",
+    "location": "Tampere, Finland",
     "time": "Fulltime",
 
-    "salary": "100000",
-    "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-    "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-    "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "salary": "Salary : 85K - 100K",
+    "jobDescription": "Recording and maintaining financial transactions: This involves recording financial transactions such as sales, purchases, expenses, and payments using accounting software or manual ledger systems.Preparing financial statements: This involves preparing financial statements such as balance sheets, income statements, and cash flow statements.",
+    "jobResponsibility": "Recording financial transactions: This involves accurately recording financial transactions such as sales, purchases, expenses, and payments using accounting software or manual ledger systems.Analyzing financial data: An accountant is responsible for analyzing financial data to identify trends, opportunities, and risks and making recommendations based on the analysis",
+    "educationalRequirements": "Certifications: Depending on the job requirements, candidates may need to have professional certifications such as CPA (Certified Public Accountant), CMA (Certified Management Accountant), or ACCA (Association of Chartered Certified Accountants).",
     "Experiences": "6 year experience in phython",
-    "phone": "++9990001551",
-    "email": "nnheo@example.com",
-    "website": "www.example.com"
+    "phone": "++99954657551",
+    "email": "nokia@example.com",
+    "website": "www.nokia.com"
   },
   {
     "id": "6",
     "jobTitle": "Front end development",
-    "companyLogo": "src/assets/logo/google-1-1 1-1.png",
+    "companyLogo": "https://blog.logomyway.com/wp-content/uploads/2017/02/amazon-logo.jpg",
     "companyName": "Amazon",
     "RemoteOnsite": "Onsite",
 
-    "location": "San Francisco, CA",
+    "location": "Los Angelas, CA",
     "time": "partTime",
 
-    "salary": "100000",
-    "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-    "jobResponsibility": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore          ",
-    "educationalRequirements": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "salary": "Salary : 220K - 280K",
+    "jobDescription": "As a Front-End Developer at Amazon, you will work with a team of developers and designers to create world-class user experiences for Amazon's e-commerce platform. You will be responsible for building and maintaining front-end web applications that are highly performant, accessible, and responsive across a variety of devices.",
+    "jobResponsibility": "Develop and maintain front-end web applications using modern web technologies such as React, Redux, JavaScript, HTML, and CSS.Collaborate with cross-functional teams, including designers, product managers, and back-end developers, to build user-friendly and visually appealing interfaces",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or a related field.3+ years of experience in software development.Proficiency in at least one programming language, such as Java, Python, C++, or JavaScript.Experience with database systems such as MySQL, PostgreSQL, or Oracle.",
     "Experiences": "10 year experience in html and css",
-    "phone": "++9990001551",
-    "email": "nnheo@example.com",
-    "website": "www.example.com"
+    "phone": "++99905677551",
+    "email": "amazon@example.com",
+    "website": "www.amazon.com"
   }
 ]

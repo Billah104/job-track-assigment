@@ -7,6 +7,10 @@ import './Home.css'
 const Home = () => {
   const jobsCategory = useLoaderData();
   const [featureJobs, setFeatureJobs] = useState([]);
+  const [showAll , setShowAll] = useState(false);
+  const handleShowAll = () =>{
+    setShowAll(true)
+  }
   useEffect(() => {
     fetch("featureJobs.json")
       .then((res) => res.json())
@@ -31,7 +35,7 @@ const Home = () => {
         <div>
           <img
             className="banner-img"
-            src="/src/assets/All Images/P3OLGJ1 copy 1.png"
+            src="https://images.unsplash.com/photo-1589386417686-0d34b5903d23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
             alt=""
           />
         </div>
@@ -71,11 +75,13 @@ const Home = () => {
         {/* feature job details */}
 
         <div className="feature-jobs-items">
-          {featureJobs.slice(0, 4).map((feature) => (
+          {featureJobs.slice(0, showAll ? 6 : 4 ).map((feature) => (
             <FeatureJobs key={feature.id} feature={feature}></FeatureJobs>
           ))}
         </div>
-        <button className="see-all-button btn  text-white bg-violet-700 mx-auto mt-5">See All Jobs</button>
+        <p onClick={handleShowAll}>
+        <button className="see-all-button">See All Jobs</button>
+        </p>
       </section>
     </div>
   );

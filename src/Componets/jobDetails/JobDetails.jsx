@@ -1,23 +1,25 @@
 import React, { useContext, useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router-dom";
 import { addToDb } from "../../utilities/fakedb";
-// import { detailsContext, jobContext } from "../../App";
 import './JobDetails.css'
+
+
 
 const JobDetails = () => {
   const loaderData = useLoaderData();
   const detailsId = useParams();
   const dynamicId = detailsId.id;
 
+  
   const [detail, setDetail] = useState({});
   useEffect(() => {
     if (loaderData) {
       const findId = loaderData.find((dataId) => dataId.id === dynamicId);
-      // console.log(findId);
+      
       setDetail(findId);
     }
   }, []);
-  // console.log(detail);
+  
   const {
     id,
     jobDescription,
